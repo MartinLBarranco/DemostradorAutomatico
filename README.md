@@ -6,14 +6,15 @@ Este programa tiene muchas carencias.
 
 Debe poder ser ampliado a más tipos de lógica.
 
-
+# ** IMPORTANTE: ** En demostradorMejorado hay otro demostrador que previsiblemente sustituirá al actual. 
+El cual será usado como herramienta de testeo
 
 # PRINIPALES PROBLEMAS:
 
--La negación lógica no está puesta.
+- La negación lógica no está puesta.
 
--Solo sirve para la lógica preposicional.
+- Solo sirve para la lógica preposicional.
 
--Nivel de ineficiencia computacional: infinita.
+- Nivel de ineficiencia computacional: infinita.
 
--Caos de código: Demasiada.
+- Caos de código: Demasiada.

@@ -1,0 +1,9 @@
+Definiciones --|
+   |           | 
+   |           |
+   v           |
+Auxiliares     |
+   |           |
+   |           |
+   v           |
+Logica   <------
